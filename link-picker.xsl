@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Subscribers: /_common/_internal/formats/standard-format , /_common/_internal/formats/standard-tab-format. /_common/_internal/formats/right-column -->
+<!-- Subscribers: it's handy to know which files are including this template -->
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0" xmlns:xalan="http://xml.apache.org/xalan">
     <xsl:output encoding="UTF-8" indent="yes" method="html"/>
 <xsl:template name="link-picker">
